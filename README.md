@@ -1,2 +1,2 @@
 # panoramic
-Upload panorama photos to immerse yourself in your memory!
+upload panorama photos to immerse yourself in your memory
